@@ -4,18 +4,22 @@
    Classic heritage · Deep forest green · Walnut · Aged gold
 ============================================================ */
 
+
 :root {
-  --forest: #10251C;
-  --forest-deep: #0A1912;
-  --forest-light: #193528;
-  --walnut: #39291F;
-  --walnut-light: #4A3528;
-  --gold: #B89A5B;
-  --gold-light: #D4BC83;
-  --ivory: #F0E8D8;
+  --forest: #0B2B1C;
+  --forest-deep: #061B12;
+  --forest-light: #16432D;
+
+  --walnut: #432719;
+  --walnut-light: #593725;
+
+  --gold: #C0A05C;
+  --gold-light: #DFC58A;
+
+  --ivory: #F3E9D6;
   --paper: #E8DECB;
-  --muted: #B8B5A8;
-  --line: rgba(184, 154, 91, 0.28);
+  --muted: #C2BBAA;
+  --line: rgba(192, 160, 92, 0.32);
 
   --serif: "Cormorant Garamond", Georgia, serif;
   --sans: "DM Sans", Arial, sans-serif;
