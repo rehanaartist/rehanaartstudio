@@ -45,58 +45,130 @@ const SITE = {
 
 const PAINTINGS = [
   {
-    title: "A Quiet Evening",
-    image: "quiet-evening.JPG",
+    title: "No Destination",
+    image: "no-destination.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 12 inches",
+    price: "200 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "A Familiar Road",
+    image: "a-familiar-road.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 12 inches",
+    price: "200 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Quiet Radiance",
+    image: "quiet-radiance.JPG",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
-    price: "",
+    price: "270 USD (Shipping included",
     status: "available",
-    description: "A quiet scene painted to preserve the atmosphere and feeling of a moment that deserves to linger."
+    description: ""
   },
   {
-    title: "The Old House",
-    image: "the-old-house.JPG",
-    medium: "Oil on canvas",
-    size: "12 × 16 inches",
-    price: "",
-    status: "available",
-    description: "An old house, a little mystery, and the sense that every place has a story of its own."
-  },
-  {
-    title: "After the Rain",
-    image: "after-the-rain.JPG",
-    medium: "Oil on canvas",
-    size: "16 × 20 inches",
-    price: "",
-    status: "available",
-    description: "A reflection on the stillness that settles in after the rain, when familiar surroundings seem new again."
-  },
-  {
-    title: "The Last Light",
-    image: "the-last-light.JPG",
+    title: "Night Silence",
+    image: "night-silence.JPG",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
-    price: "",
+    price: "270 USD (Shipping included",
     status: "available",
-    description: "A study of fading light, quiet surroundings, and the gentle beauty of a day coming to an end."
+    description: ""
   },
   {
-    title: "A Distant Place",
-    image: "a-distant-place.JPG",
+    title: "After the Long Day",
+    image: "after-the-long-day.JPG",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
-    price: "",
-    status: "sold",
-    description: "A place that feels familiar even when we cannot quite remember being there. This original painting has found a home."
+    price: "400 USD (Shipping included",
+    status: "available",
+    description: ""
   },
   {
-    title: "Winter Window",
-    image: "winter-window.JPG",
+    title: "Midnight Glow",
+    image: "midnight-glue.JPG",
     medium: "Oil on canvas",
-    size: "10 × 12 inches",
-    price: "",
+    size: "12 × 18 inches",
+    price: "270 USD (Shipping included",
     status: "available",
-    description: "A small, atmospheric painting inspired by the comfort of looking out at a world grown quiet."
+    description: ""
+  },
+   {
+    title: "After Midnight",
+    image: "after-midnight.JPG",
+    medium: "Oil on canvas",
+    size: "18 × 24 inches",
+    price: "470 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+   {
+    title: "In The Quiet",
+    image: "in-the-quiet.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "320 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "A Warm Place",
+    image: "a-warm-place.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "In The Quiet",
+    image: "in-the-quiet.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "320 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "A Light Left On",
+    image: "a-light-left-on.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "In The Quiet",
+    image: "in-the-quiet.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "320 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "A Whimsical Night",
+    image: "a-whimsical-night.JPG",
+    medium: "Oil on canvas",
+    size: "18 × 24 inches",
+    price: "600 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
+  },
+    {
+    title: "Breathing Walls",
+    image: "breathing-walls.JPG",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included",
+    status: "Sold (Open for commission)",
+    description: ""
   }
 ];
 
