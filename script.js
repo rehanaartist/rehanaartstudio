@@ -46,7 +46,7 @@ const SITE = {
 const PAINTINGS = [
   {
     title: "No Destination",
-    image: "no-destination.JPG",
+    image: "no-destination.jpeg",
     medium: "Oil on canvas",
     size: "12 × 12 inches",
     price: "200 USD (Shipping included)",
@@ -55,7 +55,7 @@ const PAINTINGS = [
   },
   {
     title: "A Familiar Road",
-    image: "a-familiar-road.JPG",
+    image: "a-familiar-road.jpeg",
     medium: "Oil on canvas",
     size: "12 × 12 inches",
     price: "200 USD (Shipping included)",
@@ -64,7 +64,7 @@ const PAINTINGS = [
   },
   {
     title: "Quiet Radiance",
-    image: "quiet-radiance.JPG",
+    image: "quiet-radiance.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "270 USD (Shipping included",
@@ -82,7 +82,7 @@ const PAINTINGS = [
   },
   {
     title: "After the Long Day",
-    image: "after-the-long-day.JPG",
+    image: "after-the-long-day.jpg",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
     price: "400 USD (Shipping included",
@@ -91,7 +91,7 @@ const PAINTINGS = [
   },
   {
     title: "Midnight Glow",
-    image: "midnight-glue.JPG",
+    image: "midnight-glue.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "270 USD (Shipping included",
@@ -100,7 +100,7 @@ const PAINTINGS = [
   },
    {
     title: "After Midnight",
-    image: "after-midnight.JPG",
+    image: "after-midnight.jpeg",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
     price: "470 USD (Shipping included",
@@ -109,7 +109,7 @@ const PAINTINGS = [
   },
    {
     title: "In The Quiet",
-    image: "in-the-quiet.JPG",
+    image: "in-the-quiet.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "320 USD (Shipping included",
@@ -127,7 +127,7 @@ const PAINTINGS = [
   },
     {
     title: "In The Quiet",
-    image: "in-the-quiet.JPG",
+    image: "in-the-quiet.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "320 USD (Shipping included",
@@ -136,7 +136,7 @@ const PAINTINGS = [
   },
     {
     title: "A Light Left On",
-    image: "a-light-left-on.JPG",
+    image: "a-light-left-on.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included",
@@ -144,17 +144,8 @@ const PAINTINGS = [
     description: ""
   },
     {
-    title: "In The Quiet",
-    image: "in-the-quiet.JPG",
-    medium: "Oil on canvas",
-    size: "12 × 18 inches",
-    price: "320 USD (Shipping included",
-    status: "Sold (Open for commission)",
-    description: ""
-  },
-    {
     title: "A Whimsical Night",
-    image: "a-whimsical-night.JPG",
+    image: "a-whimsical-night.jpg",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
     price: "600 USD (Shipping included",
@@ -163,7 +154,7 @@ const PAINTINGS = [
   },
     {
     title: "Breathing Walls",
-    image: "breathing-walls.JPG",
+    image: "breathing-walls.jpg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included",
