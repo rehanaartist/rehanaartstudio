@@ -1954,3 +1954,6 @@ img {
     transition-duration: 0.01ms !important;
   }
 }
+.painting-image-fallback[hidden] {
+  display: none !important;
+}
