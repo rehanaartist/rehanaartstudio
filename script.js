@@ -3,13 +3,13 @@ const SITE = {
 
   // Replace with the WhatsApp number, including country code.
   // Use digits only, without +, spaces, or dashes.
-  whatsapp: "REPLACE_WITH_WHATSAPP_NUMBER",
+  whatsapp: "+92 3096332073",
 
   // Replace with the artist's Instagram profile.
-  instagramUrl: "https://www.instagram.com/REPLACE_WITH_USERNAME/",
+  instagramUrl: "https://www.instagram.com/rehanaartist_/",
 
   // Replace with the artist's email address.
-  email: "REPLACE_WITH_EMAIL_ADDRESS",
+  email: "rehanaartist1@gmail.com",
 
   // Add the mailing-list signup URL here.
   // For example, a Beehiiv publication signup page.
