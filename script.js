@@ -73,7 +73,7 @@ const PAINTINGS = [
   },
   {
     title: "Night Silence",
-    image: "night-silence.JPG",
+    image: "night-silence.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "270 USD (Shipping included",
@@ -122,15 +122,6 @@ const PAINTINGS = [
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included",
-    status: "Sold (Open for commission)",
-    description: ""
-  },
-    {
-    title: "In The Quiet",
-    image: "in-the-quiet.jpeg",
-    medium: "Oil on canvas",
-    size: "12 × 18 inches",
-    price: "320 USD (Shipping included",
     status: "Sold (Open for commission)",
     description: ""
   },
