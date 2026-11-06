@@ -202,11 +202,27 @@ function getPaintingStatus(painting) {
 }
 
 function getEnquiryMessage(painting) {
+  const price = formatPrice(painting.price);
+
   if (painting.status === "sold") {
-    return `Hello! I saw "${painting.title}" on ${SITE.name}. I understand it has sold, and I'd love to ask about a commission inspired by this painting.`;
+    return `Hello Rehana! I came across "${painting.title}" on your website and really liked it.
+
+Painting size: ${painting.size}
+Listed price: ${price}
+
+I understand this painting has sold, but I'd love to enquire about a commission inspired by it. Could you please share more details?
+
+Thank you!`;
   }
 
-  return `Hello! I'm interested in "${painting.title}" from ${SITE.name}. Could you please share more details?`;
+  return `Hello Rehana! I'm interested in "${painting.title}" from your website.
+
+Painting size: ${painting.size}
+Listed price: ${price}
+
+Could you please share more details about the painting?
+
+Thank you!`;
 }
 
 function createElement(tag, className, text) {
@@ -433,15 +449,37 @@ function openPaintingModal(index) {
     status.textContent = "Available · Original artwork";
   }
 
-  const enquireButton = $("#modalEnquire");
   const message = getEnquiryMessage(painting);
 
-  enquireButton.href = getWhatsAppUrl(message);
-  enquireButton.onclick = event => {
-    if (enquireButton.getAttribute("href") === "#") {
-      event.preventDefault();
+  const whatsappButton = $("#modalWhatsapp");
+  const emailButton = $("#modalEmail");
+  const instagramButton = $("#modalInstagram");
+
+  if (whatsappButton) {
+    whatsappButton.href = getWhatsAppUrl(message);
+    if (whatsappButton.href.endsWith("#")) {
+      whatsappButton.addEventListener("click", event => event.preventDefault());
     }
-  };
+  }
+
+  if (emailButton) {
+    const subject = painting.status === "sold"
+      ? `Commission enquiry: ${painting.title}`
+      : `Painting enquiry: ${painting.title}`;
+
+    emailButton.href = `mailto:${SITE.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
+
+    if (emailButton.href.endsWith("#")) {
+      emailButton.addEventListener("click", event => event.preventDefault());
+    }
+  }
+
+  if (instagramButton) {
+    instagramButton.href = getInstagramUrl();
+    if (instagramButton.href.endsWith("#")) {
+      instagramButton.addEventListener("click", event => event.preventDefault());
+    }
+  }
 
   modal.classList.add("is-open");
   modal.setAttribute("aria-hidden", "false");
