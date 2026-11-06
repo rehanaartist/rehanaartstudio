@@ -13,7 +13,7 @@ const SITE = {
 
   // Add the mailing-list signup URL here.
   // For example, a Beehiiv publication signup page.
-  newsletterUrl: ""
+  newsletterUrl: "https://bhi-rehanaartstudio.beehiiv.com/"
 };
 
 
