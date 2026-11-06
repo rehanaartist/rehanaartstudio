@@ -100,29 +100,11 @@ const PAINTINGS = [
     description: ""
   },
   {
-    title: "A Warm Place",
-    image: "a-warm-place.JPG",
-    medium: "Oil on canvas",
-    size: "12 × 18 inches",
-    price: "300 USD (Shipping included)",
-    status: "sold",
-    description: ""
-  },
-  {
     title: "A Light Left On",
     image: "a-light-left-on.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
-    status: "sold",
-    description: ""
-  },
-  {
-    title: "A Whimsical Night",
-    image: "a-whimsical-night.jpg",
-    medium: "Oil on canvas",
-    size: "18 × 24 inches",
-    price: "600 USD (Shipping included)",
     status: "sold",
     description: ""
   },
@@ -134,7 +116,160 @@ const PAINTINGS = [
     price: "300 USD (Shipping included)",
     status: "sold",
     description: ""
-  }
+  },
+  {
+    title: "A Light Left On",
+    image: "a-light-left-on.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Quiet Home",
+    image: "quiet-home.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Soft Silence",
+    image: "soft-silence.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "A Light Left On",
+    image: "a-light-left-on.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Silent Ember",
+    image: "silent-ember.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "The Quiet Night",
+    image: "the-quiet-night.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "270 USD (Shipping included)",
+    status: "Available",
+    description: ""
+  },
+  {
+    title: "Blue Ember Night",
+    image: "blue-ember-night.jpg",
+    medium: "Oil on canvas",
+    size: "14 × 14 inches",
+    price: "270 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Veiled Journey",
+    image: "veiled-journey.jpg",
+    medium: "Oil on canvas",
+    size: "18 × 24 inches",
+    price: "550 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Passing Through Silence",
+    image: "passing-through-silence.jpg",
+    medium: "Oil on canvas",
+    size: "10 × 10 inches",
+    price: "140 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Under the Glow",
+    image: "under-the-glow.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Midnight Transit",
+    image: "midnight-transit.jpg",
+    medium: "Oil on canvas",
+    size: "7 × 10 inches",
+    price: "150 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Fded Streets",
+    image: "faded-streets.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Silent Evening",
+    image: "silent-evening.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Far From Here",
+    image: "far-from-here.jpg",
+    medium: "Oil on canvas",
+    size: "10 × 10 inches",
+    price: "120 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Frozen Glow",
+    image: "frozen-glow.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "270 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
+    title: "Blue Hour",
+    image: "blue-hour.jpg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
+    title: "Hushed Winter",
+    image: "hushed-winter.jpg",
+    medium: "Oil on canvas",
+    size: "10 × 10 inches",
+    price: "150 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
 ];
 
 
