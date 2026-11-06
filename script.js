@@ -128,7 +128,7 @@ const PAINTINGS = [
   },
   {
     title: "Quiet Home",
-    image: "quiet-home.jpg",
+    image: "quiet-home.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
@@ -137,7 +137,7 @@ const PAINTINGS = [
   },
   {
     title: "Soft Silence",
-    image: "soft-silence.jpg",
+    image: "soft-silence.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
@@ -146,7 +146,7 @@ const PAINTINGS = [
   },
   {
     title: "A Light Left On",
-    image: "a-light-left-on.jpg",
+    image: "a-light-left-on.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
@@ -155,7 +155,7 @@ const PAINTINGS = [
   },
   {
     title: "Silent Ember",
-    image: "silent-ember.jpg",
+    image: "silent-ember (1).jpg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
@@ -173,7 +173,7 @@ const PAINTINGS = [
   },
   {
     title: "Blue Ember Night",
-    image: "blue-ember-night.jpg",
+    image: "blue-ember-night.jpeg",
     medium: "Oil on canvas",
     size: "14 × 14 inches",
     price: "270 USD (Shipping included)",
@@ -182,7 +182,7 @@ const PAINTINGS = [
   },
   {
     title: "Veiled Journey",
-    image: "veiled-journey.jpg",
+    image: "veiled-journey.jpeg",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
     price: "550 USD (Shipping included)",
@@ -191,7 +191,7 @@ const PAINTINGS = [
   },
   {
     title: "Passing Through Silence",
-    image: "passing-through-silence.jpg",
+    image: "passing-through-silence.jpeg",
     medium: "Oil on canvas",
     size: "10 × 10 inches",
     price: "140 USD (Shipping included)",
@@ -209,7 +209,7 @@ const PAINTINGS = [
   },
   {
     title: "Midnight Transit",
-    image: "midnight-transit.jpg",
+    image: "midnight-transit.jpeg",
     medium: "Oil on canvas",
     size: "7 × 10 inches",
     price: "150 USD (Shipping included)",
@@ -218,7 +218,7 @@ const PAINTINGS = [
   },
   {
     title: "Fded Streets",
-    image: "faded-streets.jpg",
+    image: "faded-streets.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
@@ -236,7 +236,7 @@ const PAINTINGS = [
   },
   {
     title: "Far From Here",
-    image: "far-from-here.jpg",
+    image: "far-from-here.jpeg",
     medium: "Oil on canvas",
     size: "10 × 10 inches",
     price: "120 USD (Shipping included)",
@@ -245,7 +245,7 @@ const PAINTINGS = [
   },
   {
     title: "Frozen Glow",
-    image: "frozen-glow.jpg",
+    image: "frozen-glow.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "270 USD (Shipping included)",
