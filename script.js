@@ -13,7 +13,7 @@ const SITE = {
 
   // Add the mailing-list signup URL here.
   // For example, a Beehiiv publication signup page.
-  newsletterUrl: "https://bhi-rehanaartstudio.beehiiv.com/"
+  newsletterUrl: ""
 };
 
 
@@ -210,7 +210,7 @@ function getEnquiryMessage(painting) {
 Painting size: ${painting.size}
 Listed price: ${price}
 
-I understand this painting has sold, but I'd love to enquire about a commission inspired by it. Could you please share more details?
+I understand this painting has sold, but I'd love to enquire about having it recreated as a commission. Could you please share more details?
 
 Thank you!`;
   }
@@ -330,9 +330,7 @@ function createPaintingCard(painting, index) {
   const price = createElement(
     "span",
     "painting-price",
-    painting.status === "sold"
-      ? "Sold"
-      : formatPrice(painting.price)
+    formatPrice(painting.price)
   );
 
   infoTop.append(title, price);
