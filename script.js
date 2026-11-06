@@ -220,7 +220,7 @@ Thank you!`;
 Painting size: ${painting.size}
 Listed price: ${price}
 
-Could you please share more details about the painting?
+Could you please share more details about how I can purchase it?
 
 Thank you!`;
 }
