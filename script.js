@@ -145,15 +145,6 @@ const PAINTINGS = [
     description: ""
   },
   {
-    title: "A Light Left On",
-    image: "a-light-left-on.jpeg",
-    medium: "Oil on canvas",
-    size: "12 × 18 inches",
-    price: "300 USD (Shipping included)",
-    status: "sold",
-    description: ""
-  },
-  {
     title: "Silent Ember",
     image: "silent-ember (1).jpg",
     medium: "Oil on canvas",
