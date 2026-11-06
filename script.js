@@ -217,7 +217,7 @@ const PAINTINGS = [
     description: ""
   },
   {
-    title: "Fded Streets",
+    title: "Faded Streets",
     image: "faded-streets.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
