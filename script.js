@@ -28,6 +28,15 @@ const SITE = {
 
 const PAINTINGS = [
   {
+    title: "That House",
+    image: "that-house.jpeg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "270 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
     title: "No Destination",
     image: "no-destination.jpeg",
     medium: "Oil on canvas",
