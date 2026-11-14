@@ -253,6 +253,15 @@ const PAINTINGS = [
     description: ""
   },
   {
+    title: "An Empty Hour",
+    image: "an-empty-hour.jpeg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
     title: "Frozen Glow",
     image: "frozen-glow.jpeg",
     medium: "Oil on canvas",
