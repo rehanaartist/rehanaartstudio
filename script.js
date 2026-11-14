@@ -109,6 +109,15 @@ const PAINTINGS = [
     description: ""
   },
   {
+    title: "A Warm Place",
+    image: "a-warm-place.jpeg",
+    medium: "Oil on canvas",
+    size: "12 × 18 inches",
+    price: "300 USD (Shipping included)",
+    status: "sold",
+    description: ""
+  },
+  {
     title: "A Light Left On",
     image: "a-light-left-on.jpeg",
     medium: "Oil on canvas",
