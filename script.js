@@ -28,6 +28,15 @@ const SITE = {
 
 const PAINTINGS = [
   {
+    title: "Blue Morning Silence",
+    image: "blue-morning-silence.jpeg",
+    medium: "Oil on canvas",
+    size: "12 × 12 inches",
+    price: "130 USD (Shipping included)",
+    status: "available",
+    description: ""
+  },
+  {
     title: "That House",
     image: "that-house.jpeg",
     medium: "Oil on canvas",
@@ -111,15 +120,6 @@ const PAINTINGS = [
   {
     title: "A Warm Place",
     image: "a-warm-place.jpeg",
-    medium: "Oil on canvas",
-    size: "12 × 18 inches",
-    price: "300 USD (Shipping included)",
-    status: "sold",
-    description: ""
-  },
-  {
-    title: "A Light Left On",
-    image: "a-light-left-on.jpeg",
     medium: "Oil on canvas",
     size: "12 × 18 inches",
     price: "300 USD (Shipping included)",
