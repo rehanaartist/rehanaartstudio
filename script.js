@@ -86,7 +86,7 @@ const PAINTINGS = [
     image: "after-the-long-day.jpg",
     medium: "Oil on canvas",
     size: "18 × 24 inches",
-    price: "400 USD (Shipping included)",
+    price: "500 USD (Shipping included)",
     status: "available",
     description: ""
   },
